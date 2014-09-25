@@ -1,0 +1,101 @@
+---
+title: "Project 3"
+author: "S Santos"
+date: "Thursday, September 25, 2014"
+output: html_document
+---
+
+## DETAILS on PROJECT 3 
+
+**GROUP**: 2
+
+**TITLE**: Capillary interactions and thin water films on surfaces
+
+
+## Stage 1
+
+* Paper on capilary and normal forces
+
+**WORK**: 6th of October 2014 
+
+1. Group 2 will give a 15 minutes presentation of this paper. 7.5 minutes one person in the group and 7.5 minutes another person. 
+
+2. Then Dr Chiesa and Dr Santos will ask questions for 15 minutes. 
+
+3. The rest of the class will be dedicated to group 1.
+
+4. Group 1 will hand in **the presentation** and **a document** containing 
+5-20 references that the group thinks will be important to understand 
+how to go from the Hamaker approach to Cassimir forces. 
+
+
+**Paper to Read**: 
+Butt, H.-J. & Kappl, M. Normal capillary forces. Advances in Colloid and Interface Science 146, 48-60 (2009).
+
+Download it [here](http://www.sciencedirect.com/science/article/pii/S0001868608001899)
+
+
+## Stage 2 (October)
+
+- Thin water films:
+
+Read the following paper:
+
+Beaglehole, D., Radlinska, E. Z., Ninham, B. W. & Christenson, H. K. Inadequacy of Lifshitz theory for thin liquid films. Physical Review Letters 66, 2084 (1991).
+
+Find it [here](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.66.2084)
+
+
+Also read:
+
+Christenson, H. K. Adhesion and surface energy of mica in air and water. Journal of Physical Chemistry 97, 12034-12041 (1993).
+
+Find it [here](http://pubs.acs.org/doi/pdf/10.1021/j100148a032)
+
+Also:
+
+Christenson, H. K. Capillary condensation due to the van der Waals attraction in wet slits. Physical Review Letters 73, 1821-1824 (1994).
+
+Beaglehole, D. & Christenson, H. K. Vapor Adsorption on Mica and Silicon: Entropy Effects, Layering, and Surface Forces. Journal of Physical Chemistry 96, 3395-3403 (1992).
+
+Find [here](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.73.1821) and 
+[here](Christenson, H. K. & Israelachvili, J. N. Growth of Ionic Crystallites on Exposed Surfaces. Journal of colloid and interface science 117, 576-577 (1987).)
+
+
+- During this month you need to produce a presentation and a document, i.e. references, etc., as you did during stage 1 for the Hamaker paper.
+
+- At the end of October, begining of november Group 1 **will give a presentation** and submit the documents as in stage 1.
+
+
+## Stage 3 (November)
+
+**THE GOAL IS THAT BY THE END OF NOVEMBER:**
+ 
+-	You (the group) will **present a single document** including:
+
+1) 50-100 words of abstract describing your article AND OVERALL topic. 
+2) 100-200 words of introduction to the topic. It doesnt have to be about this paper only, but about the topic of the article. 
+3) 2000-3000 words of body summarising the topic and article. 
+4) Conclusions of 50-150. 
+5) the document needs to inlcude 5-15 references, some not included in the articles you read. 
+
+This will count 40-50% of the final grade. You will have to do this project at the end of the course, if needed, if you want to pass the course. 
+
+- 20 minutes (each group) for an oral presentation based on the document produced. 
+
+-  Two  people in the group will present.
+
+-	Then there will be 10 minutes of questions. The class can ask anybody in the team to answer.
+
+-	Finally, if we note someone is not answering any question, and doesn't do any work, this person will then become a separate and individual group for the rest of the course. 
+
+-	This project **SHOULD NOT involve more than 25 hours reading and maybe 5 to 10 generating the project**. You can help each other and not all of you have to do everything! It is important you learn how to get infomration fast and efficiently! So don't employ too much time! 
+
+
+
+
+
+
+
+
+
